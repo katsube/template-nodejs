@@ -1,0 +1,19 @@
+{
+  "name": "template-nodejs",
+  "version": "1.0.0",
+  "description": "great nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katsube/template-nodejs.git"
+  },
+  "author": "M.Katsube",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katsube/template-nodejs/issues"
+  },
+  "homepage": "https://github.com/katsube/template-nodejs#readme"
+}
