@@ -3,13 +3,25 @@
   "version": "1.0.0",
   "description": "great nodejs project",
   "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/katsube/template-nodejs.git"
   },
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
   "author": "M.Katsube",
   "license": "MIT",
   "bugs": {
